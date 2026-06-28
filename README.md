@@ -107,7 +107,7 @@ Final Result
 
 ---
 
-# 🔍 Core Technologies
+#  Core Technologies
 
 ## 1. Image Preprocessing
 
@@ -139,27 +139,6 @@ Overlay detected lane lines onto the original image.
 
 ---
 
-#  Demonstration
-
-## Original Image
-
-```
-images/road.jpg
-```
-
-*(Insert screenshot here after uploading.)*
-
----
-
-## Detection Result
-
-```
-images/result.png
-```
-
-*(Insert screenshot here after saving your program output.)*
-
----
 
 #  Technologies Used
 
@@ -194,10 +173,6 @@ This project helps beginners understand:
 - Autonomous driving perception
 
 ---
-
-#  Author
-
-**GitHub**
 
 killerqueen1010
 
